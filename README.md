@@ -5,7 +5,6 @@ I'm Abdullah, a Software Engineering student at FAST University Islamabad, passi
 
 🌱 Currently learning: CI/CD, cloud computing, and infrastructure as code.
 
-👯 Looking to collaborate on: Automation, cloud-based projects, and DevOps workflows.
 
 ⚡ Fun fact: My highest rank in valorant is silver-1.
 
