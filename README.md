@@ -1,9 +1,9 @@
  Hi there 👋
 I'm Abdullah, a Software Engineering student at FAST University Islamabad, passionate about programming and turning ideas into reality through code.
 
-🔭 Currently working on: Continuing to learn Object-Oriented Programming while exploring DevOps fundamentals.
+🔭 Currently working on:  Creating projects in javascript for better its better understanding.
 
-🌱 Currently learning: CI/CD, cloud computing, and infrastructure as code.
+🌱 Currently learning:  Continuing to learn Data Structures and Algorithms while exploring Web development.
 
 
 ⚡ Fun fact: My highest rank in valorant is silver-1.
